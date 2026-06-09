@@ -31,3 +31,13 @@ Loops: Keeping the game alive until you either win or die.
 Logic: Making the computer actually think and give you hints.
 
 ASCII Art: Yeah, I drew a skull in the terminal. Looks sick, right? , cuz y2k bbg
+
+
+
+
+
+### Game Screenshots
+
+![Skull Game Intro](https://github.com/ANAY-prog-777/NUMBER-GUESSING-GAME/raw/main/Screenshot%202026-06-09%20221725.png)
+
+![Skull Game Gameplay](https://github.com/ANAY-prog-777/NUMBER-GUESSING-GAME/raw/main/Screenshot%202026-06-09%20223824.png)
