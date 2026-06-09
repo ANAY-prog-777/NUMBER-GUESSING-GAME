@@ -14,7 +14,7 @@ I added hints so you know if you're hitting the "Underground" (too low) or going
 --> Why I built this   -------------------------------------
 I wanted to level up my Python game. I messed around with while loops and if/elif logic to make sure the game doesn't just crash when you do something wrong. It's not fancy, but it's my code, and it actually works without any of that complicated def function stuff.
 
-🚀 How to run this trash
+--->How to run this cortisol lowering game  ------------------------------------------>
 You need Python installed, obviously.
 
 Open your terminal.
